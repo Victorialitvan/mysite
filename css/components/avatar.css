@@ -1,0 +1,12 @@
+.avatar {
+width: 300px;
+height: 200px;
+margin-bottom: 40px;
+margin-top: 70px;
+padding: 20px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
